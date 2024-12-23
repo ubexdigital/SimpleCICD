@@ -1,0 +1,13 @@
+environment:
+  name: test
+  identifier: test
+  description: ""
+  tags: {}
+  type: Production
+  yaml: |
+    environment:
+      name: test
+      identifier: test
+      type: Production
+      description: ""
+      tags: {}
